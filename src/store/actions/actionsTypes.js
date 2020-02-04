@@ -1,0 +1,2 @@
+export const USER_LOGADO = 'USUARIO_LOGADO'
+export const USER_DESLOGADO = 'USUARIO_DESLOGADO'
